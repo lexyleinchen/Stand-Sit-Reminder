@@ -58,6 +58,6 @@ For issues or feedback, please contact me at lexyfischer@web.de
 
 ## License
 
-© 2026 Lexyleinchen. Free to use and distribute, no warranty.
+© 2026 Lexy. All rights reserved.
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This software is free to use, but may not be modified or redistributed without permission.
