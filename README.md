@@ -19,9 +19,9 @@
 
 ## Installation
 
-1. Download the **Stand.Sit.Reminder.zip file** from [Releases](https://github.com/lexyleinchen/Stand-Sit-Reminder/releases).
+1. Download the **Stand_Sit_Reminder.zip file** from [Releases](https://github.com/lexyleinchen/Stand-Sit-Reminder/releases).
 2. Extract the contents to a folder of your choice.
-3. Run the executable (`StandSitReminder.exe`). A tray icon will appear in your taskbar.
+3. Run the executable (`Stand Sit Reminder.exe`). A tray icon will appear in your taskbar.
 4. **Important:** Windows will ask if you want to allow the app to show urgent notifications. Click **Yes** to ensure reminders work even when **Do Not Disturb** is enabled.
 5. The first reminder will appear immediately.
 
